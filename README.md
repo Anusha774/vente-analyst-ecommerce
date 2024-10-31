@@ -27,16 +27,5 @@ Le dataset comprend des informations sur les produits, les ventes mensuelles, le
   - Analyse des ventes par catégorie et par mois
 - **Visualisation** : Un graphique a été réalisés avec Tableau et disponible [ici](https://public.tableau.com/views/Comparaisondesavisetdesventesparcatgorie/Feuille1)
 
-## Résultats
-- Les catégories les plus performantes : Toys (917,101 €), Books (938,229 €), Sports (916,371 €)
-- Les catégories les moins performantes : Home & Kitchen (742,141 €), Clothing (826,536 €)
-
-## Recommandations
-Des stratégies marketing spécifiques pour chaque catégorie ont été proposées pour améliorer les performances des produits
-- Books et Toys : Intensifier les campagnes publicitaires.
-- Sports : Explorer l'élargissement de la gamme de produits.
-- Home & Kitchen et Clothing : Lancer des promotions ciblées et analyser les retours clients.
-
-
 ## Fichiers
 [`ecommerce_analysis.sql`](ecommerce_analysis.sql) : Contient les requêtes SQL pour analyser les ventes
